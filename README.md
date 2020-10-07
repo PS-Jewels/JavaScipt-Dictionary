@@ -1,0 +1,2 @@
+# JavaScipt-Dictionary
+JavaScipt Dictionary
