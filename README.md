@@ -1,2 +1,1 @@
-# JavaScipt-Dictionary
-JavaScipt Dictionary
+# PSJ-CRM-Public
